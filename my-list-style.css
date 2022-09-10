@@ -1,0 +1,82 @@
+.title-header {
+  font-family: "Roboto Slab" , serif ;
+  color : white;
+  font-size: 36px;
+}
+
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/myback.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-profile {
+  text-align: center;
+}
+
+.my-info{
+  text-align: center;
+  line-height: 24px;
+  font-size: 18px;
+  color: rgb(51, 51, 51);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.hr{
+  border-style: none;
+  border-top-style: solid;
+  border-color: #e6e6e6;
+  border-width: 2px;
+  width: 15%;
+}
+
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 36px;
+  color : blue;
+}
+
+.other-images{
+  width: 66%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+p{
+
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 20px;
+  color: rgb(51,51,51);
+
+}
+
+.content-full{
+    margin-top: 50px;
+    padding-left: 16.665%;
+    padding-right: 16.665%;
+}
+
+.content{
+
+}
+
+.my-pic {
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -50px;
+  border-color: white;
+  border-width: 1px thick;
+}
